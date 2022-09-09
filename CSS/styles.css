@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: #FFEA00;
+}
+
+header{
+    background-color: #312E2E;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1px;
+}
+
+#LOGO{
+    width: 300px;
+    border-radius: 100%;
+}
+
+#heading{
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-size: 50px;
+}
+
+#Save{
+    text-align: center;
+    font-size: 35px;
+}
+
+.Description{
+    font-style: italic;
+}
+
+#OrderNow{
+    background-color: #312E2E;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+.Partition{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #312E2E;
+    border-width: 5px;
+    width: 10%;
+}
+
+#List{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+.LPizza{
+    width: 250px;
+}
+
+.Price{
+    font-size: 40px;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #312E2E;
+    color: white;
+    padding: 10px;
+}
